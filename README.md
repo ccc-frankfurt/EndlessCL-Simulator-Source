@@ -10,7 +10,7 @@ Please cite our work if you make use of this repository.
 In this repository further insights into the technical realization of our simulator in UnrealEngine4 are provided, giving access to the source-code and an overview of the individual components and their interrelations. As such, prerequisites for 3D-assets, preparation of environmental lighting and weather components, the camera setup, and the material setup, are detailed in the following sections below. The simulator’s main-loop is unfolded with a detailed descriptions of its subroutines, including the essential aspect of capturing the images from the engine’s rendering pipeline at real-time, and the management of the procedural process.
 
 ## Disclaimer
-The code in this repository is the source for the stand-alone executable we provided [__here__](link). 
+The code in this repository is the source for the stand-alone executable we provided [__here__](https://doi.org/10.5281/zenodo.4899294). 
 The source-code itself is not a fully functional project. Please refer to the executable for this purpose. The rationale is that essential assets needed to be removed to adhere to third-party licenses, which do not allow us to re-distribute these assets in their source form. In the executable simulator these assets have been included in an encrypted version, that is usable, but cannot be extracted for use beyond our simulator. However, we do include a [list of asset and tool sources](##List-of-Sources-for-used-Asset-and-Tools).
 
 Nevertheless, we have decided to lay open the core mechanisms of our simulator to allow extension to the code base. We bevieve this to be beneficial as a basis for extension, given a reasonable amount of involved work and prior experience with UnrealEngine 4.
