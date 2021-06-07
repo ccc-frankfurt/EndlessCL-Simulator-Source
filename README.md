@@ -2,7 +2,7 @@
 The __source-code__ for our __Endless-CL-Simulator__ is part of the following publication:
 
 > 	__A Procedural World Generation Framework for Systematic Evaluation of Continual Learning__,
->	Timm Hess, Martin Mundt, Iuliia Pliushch, Visvanathan Ramesh.
+>	Timm Hess, Martin Mundt, Iuliia Pliushch, Visvanathan Ramesh, https://arxiv.org/abs/2106.02585 
 
 Please cite our work if you make use of this repository.
 
